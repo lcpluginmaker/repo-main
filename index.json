@@ -16,6 +16,13 @@
             "version": "1.1.0",
             "os": "any",
             "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.1.0/apkg.lcpkg"
+        },
+        {
+            "name": "coreutils",
+            "description": "some basic unix coreutils",
+            "version": "0.2.0",
+            "os": "any",
+            "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.2.0/coreutils.lcpkg"
         }
     ]
 }
