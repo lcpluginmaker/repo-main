@@ -1,0 +1,21 @@
+{
+    "indexVersion": 1.0,
+    "name": "main",
+    "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-apkg-repo-main/main/index.json",
+    "project": {
+        "description": "main repository, official plugins",
+        "maintainer": "alexcoder04",
+        "email": "alexcoder04@protonmail.com",
+        "homepage": "https://github.com/alexcoder04/LeoConsole-apkg-repo-main",
+        "bugTracker": "https://github.com/alexcoder04/LeoConsole-apkg-repo-main/issues"
+    },
+    "packageList": [
+        {
+            "name": "apkg",
+            "description": "advanced package manager",
+            "version": "1.0.0",
+            "os": "any",
+            "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.0.0/apkg.lcpkg"
+        }
+    ]
+}
