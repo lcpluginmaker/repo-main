@@ -25,11 +25,11 @@
             "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.2.0/coreutils.lcpkg"
         },
         {
-            "name": "external-scripts",
-            "description": "execute scripts and binaries",
-            "version": "1.1.0",
+            "name": "external",
+            "description": "support for go plugins, scripts and other binaries",
+            "version": "2.0.0",
             "os": "any",
-            "url": "https://github.com/alexcoder04/LeoConsole-external-scripts/releases/download/v1.1.0/external-scripts.lcpkg"
+            "url": "https://github.com/alexcoder04/LeoConsole-external/releases/download/v2.0.0/external.lcp"
         }
     ]
 }
