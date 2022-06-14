@@ -13,9 +13,16 @@
         {
             "name": "apkg",
             "description": "advanced package manager",
-            "version": "1.0.0",
-            "os": "any",
-            "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.0.0/apkg.lcpkg"
+            "version": "1.1.1",
+            "os": "win64",
+            "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.1.1/apkg-win64.lcp"
+        },
+        {
+            "name": "apkg",
+            "description": "advanced package manager",
+            "version": "1.1.1",
+            "os": "lnx64",
+            "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.1.1/apkg-lnx64.lcp"
         },
         {
             "name": "coreutils",
