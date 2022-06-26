@@ -1,5 +1,5 @@
 {
-    "indexVersion": 1.0,
+    "indexVersion": 2.0,
     "name": "main",
     "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-apkg-repo-main/main/index.json",
     "project": {
@@ -15,6 +15,8 @@
             "description": "advanced package manager",
             "version": "1.2.1",
             "os": "win64",
+            "lc": ["2.0.0"],
+            "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.2.1/apkg-win64.lcp"
         },
         {
@@ -22,6 +24,8 @@
             "description": "advanced package manager",
             "version": "1.2.1",
             "os": "lnx64",
+            "lc": ["2.0.0"],
+            "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-apkg/releases/download/v1.2.1/apkg-lnx64.lcp"
         },
         {
@@ -29,6 +33,8 @@
             "description": "some basic unix coreutils",
             "version": "0.2.0",
             "os": "any",
+            "lc": ["2.0.0"],
+            "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.2.0/coreutils.lcpkg"
         },
         {
@@ -36,6 +42,8 @@
             "description": "support for go plugins, scripts and other binaries",
             "version": "2.1.0",
             "os": "any",
+            "lc": ["2.0.0"],
+            "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-external/releases/download/v2.1.0/external.lcp"
         }
     ]
