@@ -31,11 +31,11 @@
         {
             "name": "coreutils",
             "description": "some basic unix coreutils",
-            "version": "0.2.0",
+            "version": "0.3.0",
             "os": "any",
             "lc": ["2.0.0"],
             "depends": [],
-            "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.2.0/coreutils.lcpkg"
+            "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.3.0/coreutils.lcp"
         },
         {
             "name": "external",
