@@ -33,7 +33,7 @@
             "description": "some basic unix coreutils",
             "version": "0.3.0",
             "os": "any",
-            "lc": ["2.0.0"],
+            "lc": ["2.1.0"],
             "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-coreutils/releases/download/v0.3.0/coreutils.lcp"
         },
