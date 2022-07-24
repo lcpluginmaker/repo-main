@@ -63,6 +63,24 @@
             "lc": ["2.1.0"],
             "depends": [],
             "url": "https://github.com/alexcoder04/LeoConsole-file-manager/releases/download/v0.0.1/file-manager-lnx64.lcp"
+        },
+        {
+            "name": "downloader",
+            "description": "download files from their url",
+            "version": "0.0.1",
+            "os": "win64",
+            "lc": ["2.1.0"],
+            "depends": [],
+            "url": "https://github.com/alexcoder04/LeoConsole-downloader/releases/download/v0.0.1/downloader-win64.lcp"
+        },
+        {
+            "name": "downloader",
+            "description": "download files from their url",
+            "version": "0.0.1",
+            "os": "lnx64",
+            "lc": ["2.1.0"],
+            "depends": [],
+            "url": "https://github.com/alexcoder04/LeoConsole-downloader/releases/download/v0.0.1/downloader-lnx64.lcp"
         }
     ]
 }
