@@ -53,7 +53,7 @@
             "os": "win64",
             "lc": ["2.1.0"],
             "depends": [],
-            "url": "https://github.com/alexcoder04/LeoConsole-file-manager/releases/download/v0.0.1/file-manager-win64.lcp"
+            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.0.1/file-manager-win64.lcp"
         },
         {
             "name": "file-manager",
@@ -62,7 +62,7 @@
             "os": "lnx64",
             "lc": ["2.1.0"],
             "depends": [],
-            "url": "https://github.com/alexcoder04/LeoConsole-file-manager/releases/download/v0.0.1/file-manager-lnx64.lcp"
+            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.0.1/file-manager-lnx64.lcp"
         },
         {
             "name": "downloader",
