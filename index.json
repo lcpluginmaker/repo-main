@@ -49,20 +49,20 @@
         {
             "name": "file-manager",
             "description": "TUI file manager (lf)",
-            "version": "0.0.1",
+            "version": "0.1.0",
             "os": "win64",
-            "lc": ["2.1.0"],
+            "lc": ["2.2.0"],
             "depends": [],
-            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.0.1/file-manager-win64.lcp"
+            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.1.0/file-manager-win64.lcp"
         },
         {
             "name": "file-manager",
             "description": "TUI file manager (lf)",
-            "version": "0.0.1",
+            "version": "0.1.0",
             "os": "lnx64",
-            "lc": ["2.1.0"],
+            "lc": ["2.2.0"],
             "depends": [],
-            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.0.1/file-manager-lnx64.lcp"
+            "url": "https://github.com/lcpluginmaker/file-manager/releases/download/v0.1.0/file-manager-lnx64.lcp"
         },
         {
             "name": "downloader",
